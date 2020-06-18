@@ -1,0 +1,9 @@
+body {
+  background: #eee;
+  padding: 60px;
+}
+
+.container, .cell, .row {
+  border: solid 1px black;
+  padding: 5px;
+}
